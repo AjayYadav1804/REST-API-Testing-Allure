@@ -207,6 +207,10 @@ mvn test -DsuiteXmlFile=suites/Datadriventestingusingjson.xml
    mvn allure:serve
    ```
    This will automatically open the report in your default browser.
+   
+   **Test Execution Report:**
+![Image](https://github.com/user-attachments/assets/a318de28-c341-4142-b36b-12ed3ec16f9e)
+![Image](https://github.com/user-attachments/assets/f54a3e33-bebb-4e41-8dfd-bd369f93c877)
 
 ## Best Practices Implemented
 
@@ -217,8 +221,3 @@ mvn test -DsuiteXmlFile=suites/Datadriventestingusingjson.xml
 5. **Maintainable Structure**: Organized package structure for easy navigation
 6. **Consistent Naming**: Clear and consistent naming conventions throughout the codebase
 
-## License
-This project is licensed under the MIT License - see the LICENSE.md file for details
-```
-
-This README provides a comprehensive overview of your BDD framework, including its structure, features, and usage instructions. You can customize it further based on any specific details or requirements of your implementation.
