@@ -1,0 +1,2 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"end to end testing","17282","end to end api testing","API Testing Suite","Sun Dec 22 11:40:45 IST 2024","passed","Sun Dec 22 11:41:02 IST 2024","com.booker.api_testing.testcases.AllureReportGenerationAllTests","Booking API Tests","com.booker.api_testing.testcases.AllureReportGenerationAllTests","e2eAPIRequest"

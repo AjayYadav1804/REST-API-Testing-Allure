@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="API Testing Suite" verbose="1">
+
+<listeners>
+        <listener class-name="io.qameta.allure.testng.AllureTestNg"/>
+    </listeners>
+     <!-- Run all tests -->
+    <test name="Booking API Tests">
+        <classes>
+            <class name="com.booker.api_testing.testcases.AllureReportGenerationAllTests"/>
+        </classes>
+    </test>
+</suite>
